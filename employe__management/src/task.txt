@@ -1,0 +1,9 @@
+1.Navbar-icon - done
+2-Navbar-color-Theme (color pallete) -Done
+3.Card-vertically and horizontally in center(div) -done
+4.Box shadow (Card) - done
+5.Border radius(Button)- Done
+6.change color submit(Button) - done
+7.Remove underline in nav bar -done
+8.Nav bar link in same colour  -done
+9.body colour(div)-done
